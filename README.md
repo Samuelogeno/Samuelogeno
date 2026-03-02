@@ -9,4 +9,4 @@ Here is a quick look at what I'm up to:
 - 👯 **I’m looking to collaborate on:** Embedded systems, IoT solutions, Controls, Networking, or applied ML and NLP projects.
 - 💬 **Ask me about:** Electrical engineering, Control Systems (MPC), my exchange research experience at CentraleSupélec, or the history and philosophy of science (always happy to discuss Newton, Laplace, or Descartes!).
 - 📫 **How to reach me:** Let's connect on [LinkedIn](https://www.linkedin.com/in/samuel-ochor).
-- ⚡ **Fun facts:** I love Space (I even registered my name to fly on NASA's Artemis II mission!), I'm an avid photographer, and a big fan of anime like *Vinland Saga*.
+- ⚡ **Fun facts:** I love Space (I even registered my name to fly on NASA's Artemis II mission!), I'm an avid photographer, Philosophy is my medicine, and I'm a fan of anime like *Vinland Saga*.
