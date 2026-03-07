@@ -4,7 +4,7 @@ I'm an Electrical and Electronics Engineer bridging the gap between low-level ha
 
 Here is a quick look at what I'm up to:
 
-- 🔭 **I’m currently working on:** Physics-Based Model Predictive Control (MPC) for smart solar-powered irrigation, ESP32 hardware integrations (like AFRETEC's bird repellent system), and Kaggle data challenges. 
+- 🔭 **I recently worked on:** Physics-Based Model Predictive Control (MPC) for smart solar-powered irrigation, ESP32 hardware integrations (like AFRETEC's bird repellent system), and Kaggle data challenges. 
 - 🌱 **I’m currently:** Upskilling in Machine Learning
 - 👯 **I’m looking to collaborate on:** Embedded systems, IoT solutions, Controls, Networking, or applied ML and NLP projects.
 - 💬 **Ask me about:** Electrical engineering, Control Systems (MPC), my exchange research experience at CentraleSupélec, or the history and philosophy of science (always happy to discuss Newton, Laplace, or Descartes!).
